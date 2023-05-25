@@ -1,0 +1,10 @@
+C:\Users\laxmi\source\repos\EmployeeManagementSystem\EmployeeManagement.API\EmployeeManagement.API.Model\bin\Debug\netcoreapp3.1\EmployeeManagement.API.Model.deps.json
+C:\Users\laxmi\source\repos\EmployeeManagementSystem\EmployeeManagement.API\EmployeeManagement.API.Model\bin\Debug\netcoreapp3.1\EmployeeManagement.API.Model.dll
+C:\Users\laxmi\source\repos\EmployeeManagementSystem\EmployeeManagement.API\EmployeeManagement.API.Model\bin\Debug\netcoreapp3.1\EmployeeManagement.API.Model.pdb
+C:\Users\laxmi\source\repos\EmployeeManagementSystem\EmployeeManagement.API\EmployeeManagement.API.Model\obj\Debug\netcoreapp3.1\EmployeeManagement.API.Model.csproj.AssemblyReference.cache
+C:\Users\laxmi\source\repos\EmployeeManagementSystem\EmployeeManagement.API\EmployeeManagement.API.Model\obj\Debug\netcoreapp3.1\EmployeeManagement.API.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laxmi\source\repos\EmployeeManagementSystem\EmployeeManagement.API\EmployeeManagement.API.Model\obj\Debug\netcoreapp3.1\EmployeeManagement.API.Model.AssemblyInfoInputs.cache
+C:\Users\laxmi\source\repos\EmployeeManagementSystem\EmployeeManagement.API\EmployeeManagement.API.Model\obj\Debug\netcoreapp3.1\EmployeeManagement.API.Model.AssemblyInfo.cs
+C:\Users\laxmi\source\repos\EmployeeManagementSystem\EmployeeManagement.API\EmployeeManagement.API.Model\obj\Debug\netcoreapp3.1\EmployeeManagement.API.Model.csproj.CoreCompileInputs.cache
+C:\Users\laxmi\source\repos\EmployeeManagementSystem\EmployeeManagement.API\EmployeeManagement.API.Model\obj\Debug\netcoreapp3.1\EmployeeManagement.API.Model.dll
+C:\Users\laxmi\source\repos\EmployeeManagementSystem\EmployeeManagement.API\EmployeeManagement.API.Model\obj\Debug\netcoreapp3.1\EmployeeManagement.API.Model.pdb

@@ -1,0 +1,13 @@
+C:\Users\laxmi\source\repos\EmployeeManagementSystem\EmployeeManagement.API\EmployeeManagement.API.Repository\bin\Debug\EmployeeManagement.API.Repository.dll.config
+C:\Users\laxmi\source\repos\EmployeeManagementSystem\EmployeeManagement.API\EmployeeManagement.API.Repository\bin\Debug\EmployeeManagement.API.Repository.dll
+C:\Users\laxmi\source\repos\EmployeeManagementSystem\EmployeeManagement.API\EmployeeManagement.API.Repository\bin\Debug\EmployeeManagement.API.Repository.pdb
+C:\Users\laxmi\source\repos\EmployeeManagementSystem\EmployeeManagement.API\EmployeeManagement.API.Repository\bin\Debug\EntityFramework.dll
+C:\Users\laxmi\source\repos\EmployeeManagementSystem\EmployeeManagement.API\EmployeeManagement.API.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\laxmi\source\repos\EmployeeManagementSystem\EmployeeManagement.API\EmployeeManagement.API.Repository\bin\Debug\EntityFramework.xml
+C:\Users\laxmi\source\repos\EmployeeManagementSystem\EmployeeManagement.API\EmployeeManagement.API.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\laxmi\source\repos\EmployeeManagementSystem\EmployeeManagement.API\EmployeeManagement.API.Repository\obj\Debug\EmployeeManagement.API.Repository.csproj.AssemblyReference.cache
+C:\Users\laxmi\source\repos\EmployeeManagementSystem\EmployeeManagement.API\EmployeeManagement.API.Repository\obj\Debug\EmployeeManagement.API.Repository.csproj.CoreCompileInputs.cache
+C:\Users\laxmi\source\repos\EmployeeManagementSystem\EmployeeManagement.API\EmployeeManagement.API.Repository\obj\Debug\EmployeeManagement.API.Repository.csproj.CopyComplete
+C:\Users\laxmi\source\repos\EmployeeManagementSystem\EmployeeManagement.API\EmployeeManagement.API.Repository\obj\Debug\EmployeeManagement.API.Repository.dll
+C:\Users\laxmi\source\repos\EmployeeManagementSystem\EmployeeManagement.API\EmployeeManagement.API.Repository\obj\Debug\EmployeeManagement.API.Repository.pdb
+C:\Users\laxmi\source\repos\EmployeeManagementSystem\EmployeeManagement.API\EmployeeManagement.API.Repository\bin\Debug\App.Config
